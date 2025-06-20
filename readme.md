@@ -4,11 +4,21 @@
 
 ## Weird introduction
 
-*"We're embracing it, so deal with it."* - Brain
+<blockquote style="line-height: 1.2;">
+  <i>"We're embracing it, so deal with it."</i>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;— Brain 🧠
+</blockquote>
 
-*"This will be how humanoid machines will be deployed in the future."* - Nobody
+<blockquote style="line-height: 1.2;">
+  <i>"This will be how humanoid machines will be deployed in the future."</i>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;— Nobody 🤖
+</blockquote>
 
-`humanoid.yml`:
+<br>
+
+📄 `humanoid.yml`:
 ```yaml
 services:
   humanoid:
@@ -40,20 +50,30 @@ volumes:
 deploy_intent:
   pointless-banter:
 ```
+<br>
 
-
-*"Yes, we're counting how many views this disaster gets."* - My neighbours cat named Rudolf
+<blockquote style="line-height: 1.2;">
+  <i>"Yes, we're counting how many views this disaster gets."</i>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;— My neighbours cat Rudolf 😸
+</blockquote>
 
 ![Counter](https://komarev.com/ghpvc/?username=supermarsx&label=Disaster%20views&color=0e75b6&style=for-the-badge)
 ![Sponsor](https://img.shields.io/badge/sponsor-good%20stuff-%23D4639B.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)
 
+<br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=supermarsx&show_icons=true&theme=dark&locale=en)
 
+<br>
 
 ## Badge infodump galore
 
-*"Please make it stop, i don't know what 'smali' is but it seems like a disease, you should get that checked."* - Some guy i pestered the other day
+<blockquote style="line-height: 1.2;">
+  <i>"Please make it stop, I don't know what '<code>smali</code>' is but it sounds like a disease, you should get that checked."</i>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;— Some guy I pestered the other day 🧔🏽‍♂️
+</blockquote>
 
 #### Languages
 
@@ -182,6 +202,16 @@ deploy_intent:
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
+<br>
+
 ## Customer reviews
 
-[*"0 out of 10, who still rickrolls people these days!? IN 4K!?"* - My little duck](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<br>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <blockquote>
+    <i>"0 out of 10, who still rickrolls people these days!? IN 4K!?"</i>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;— My little duckling 🦆
+  </blockquote>
+</a>
