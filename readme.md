@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mariana
 
 <figure>
-  <a href="#"><img alt="banner containing a laptop with crystals and code in whimsical scenario" src="https://github.com/user-attachments/assets/3c8cd6b6-0519-4386-93a3-824271b8acc1"></a>
+  <a href="#"><img alt="banner containing a laptop with crystals and code in whimsical scenario" src="https://github.com/user-attachments/assets/ef0dca47-a34c-4f77-9dcf-e2e5b382d330"></a>
   <figcaption>ᴛᴏᴛᴀʟʟʏ ʀᴇᴀʟ ᴅᴇsᴋ ᴡɪᴛʜ ᴀ ʟᴀᴘᴛᴏᴘ ᴏɴ ᴛᴏᴘ ᴏꜰ ɢᴏʟᴅ ᴅᴜsᴛ ᴀɴᴅ ᴄʀʏsᴛᴀʟs</figcaption>
 </figure>
 
