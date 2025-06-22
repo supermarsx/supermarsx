@@ -61,8 +61,8 @@ deploy_intent:
   &nbsp;&nbsp;&nbsp;&nbsp;— My neighbours cat Rudolf 😸
 </blockquote>
 
-![Counter](https://komarev.com/ghpvc/?username=supermarsx&label=Disaster%20views&color=0e75b6&style=for-the-badge)
-![Sponsor](https://img.shields.io/badge/sponsor-good%20stuff-%23D4639B.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)
+[![Counter](https://komarev.com/ghpvc/?username=supermarsx&label=Disaster%20views&color=0e75b6&style=for-the-badge)](#)
+[![Sponsor](https://img.shields.io/badge/sponsor-good%20stuff-%23D4639B.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/supermarsx)
 
 <br>
 
