@@ -66,7 +66,8 @@ deploy_intent:
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=supermarsx&show_icons=true&theme=dark&locale=en)
+![Stats](https://github-readme-stats.vercel.app/api?username=supermarsx&show_icons=true&theme=ambient_gradient&locale=en&rank_icon=percentile&custom_title=GitHub%20Stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supermarsx&layout=compact&langs_count=8&theme=dark&hide=postscript,html,rich%20text%20format,tex,c,roff,emacs%20lisp&locale=en)
 
 <br>
 
