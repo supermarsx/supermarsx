@@ -35,6 +35,14 @@ services:
       - brain
     role:
       - full_time_witchcraft_practicioner
+      - crystal_ball_guesser
+      - level_three_psychological_support
+    dlcs:
+      - it_wizardry
+      - devops_blackmagic2
+      - automation_skynet
+      - programming_bear
+      - vibecoding_tm
 
   brain:
     image: human-cnn:lts
@@ -45,6 +53,11 @@ services:
       - 9999:9999
     roles:
       - avoiding_questions
+      - instant_answering
+      - out_of_the_box_guess
+    dlcs:
+      - one_shot_try
+      - hyperconvergence_network
 
 volumes:
   inventory:
