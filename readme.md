@@ -2,7 +2,7 @@
 
 <figure>
   <a href="#"><img alt="banner containing a laptop with crystals and code in whimsical scenario" src="https://github.com/user-attachments/assets/9812f290-d2b9-4779-82d4-3b8237131b8a"></a>
-  <figcaption>ᴛᴏᴛᴀʟʟʏ ʀᴇᴀʟ ᴅᴇsᴋ ᴡɪᴛʜ ᴀ ʟᴀᴘᴛᴏᴘ ᴏɴ ᴛᴏᴘ ᴏꜰ ɢᴏʟᴅ ᴅᴜsᴛ ᴀɴᴅ ᴄʀʏsᴛᴀʟs</figcaption>
+  <figcaption>ᴛᴏᴛᴀʟʟʏ ʀᴇᴀʟ ᴅᴇsᴋ, ᴍᴏʀᴛʏ—ʟᴀᴘᴛᴏᴘ sɪᴛᴛɪɴ’ ᴏɴ ɢᴏʟᴅ ᴅᴜsᴛ ᴀɴᴅ ᴄʀʏsᴛᴀʟs! ᴅᴏɴ’ᴛ ʟɪᴄᴋ ɪᴛ!</figcaption>
 </figure>
 
 ## Weird introduction
