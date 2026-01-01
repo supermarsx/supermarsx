@@ -7,7 +7,7 @@
 
 <br>
 
-## This is the part where i say Hi
+## 🙋🏻‍♀️ This is the part where i say Hi
 
 Hi! 👋 I’m **Mariana** — I build tools, diverse utilities for all types of niche and obscure uses.<br>
 Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and the occasional spellbook for humans.
@@ -78,7 +78,7 @@ Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and 
 
 <br>
 
-## Customer reviews
+## 💌 Customer reviews
 
 <br>
 
