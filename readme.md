@@ -33,16 +33,33 @@ Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and 
   `React · Tailwind · TypeScript`
 * **magisk-samsung-dex-standalone-mode** — Flip DeX into standalone reality via Magisk; desktop mode without a host.
   `Android · Magisk · System mods`
+* **smsgate** — Receive android sms messages in real-time anywhere, on the browser.
+  `Android · Kotlin · Rust · TypeScript · Next.js`
+* **universus** — A Space-war Text Based MMO Browser Game.
+  `TypeScript · PostgreSQL · MMO`
+* **echidna** — Real‑Time Voice Changer for Android Advanced Users.
+  `C++ · Audio`
+* **hash-folderoo** — CLI and library to fingerprint directory contents for caching, sync, and integrity checks.
+  `Rust · CLI`
+* **better-cloudflare** — Open-source DNS Management Interface for Cloudflare.
+  `TypeScript · DNS`
+* **smart-pdf-md** — Smart Script to Mass Convert PDF to Markdown.
+  `Python · PDF · Markdown`
+* **office-janitor** — A tool that helps you fully remove Office Apps from Windows.
+  `Python · Windows · Uninstaller`
+* **automidi** — Automation interface for MIDI devices with SysEx support.
+  `TypeScript · MIDI · Automation`
+* **voicekeyboard** — AI-assisted Voice Keyboard.
+  `Python · AI · Voice`
+* **other-clevo-modded-bios** — Clevo BIOS fully unlocked/modded collection.
+  `Firmware · BIOS · Modding`
 
 <br>
 
-> See more in the **Repos** tab — I ship, I iterate, I optimize. 🧙‍♀️✨
-
-<br>
 
 ## 🧰 Tech Stack & Tastes
 
-* **Languages**: C/C++, TypeScript/Node, Python
+* **Languages**: C/C++, TypeScript/Node, Python, Rust
 * **Apps**: Electron, React, TUI/CLI, cross-platform packaging
 * **DevOps**: GitHub Actions, reproducible builds, static linking where it counts
 * **LLM**: Local first (Ollama/LM Studio), prompt plumbing, evals
@@ -50,34 +67,14 @@ Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and 
 
 <br>
 
-## 🧭 How I Work
-
-* **Ship → measure → sharpen**: get value live, then crank the quality dial.
-* **Automate the boring**: if I did it twice, it’s a function; thrice, it’s a tool.
-* **Local-first AI**: privacy, portability, performance.
-* **Human-centric docs**: yes, even for gnarly legal/infra topics.
-
-
-
-## 📊 Stats & Lore
+## 📊 Counters
 
 <br>
 
-> “Wubba lubba dub-dub!” — which in Birdperson means *I prefer deterministic builds and sensible defaults*.
-
-<blockquote style="line-height: 1.2;">
-  <i>"Yes, we're counting how many views this disaster gets."</i>
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;— My neighbours cat Rudolf 😸
-</blockquote>
+> “Wubba lubba dub-dub!” — which in Birdperson means *I am in great pain, please help me*. ... what every developer feels after debugging for hours on end.
 
 [![Counter](https://komarev.com/ghpvc/?username=supermarsx&label=Disaster%20views&color=0e75b6&style=for-the-badge)](#)
 [![Sponsor](https://img.shields.io/badge/sponsor-good%20stuff-%23D4639B.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/supermarsx)
-
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=supermarsx&show_icons=true&theme=ambient_gradient&locale=en&rank_icon=percentile&custom_title=GitHub%20Stats)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supermarsx&layout=compact&langs_count=8&theme=dark&hide=postscript,html,rich%20text%20format,tex,c,roff,emacs%20lisp&locale=en)
 
 <br>
 
