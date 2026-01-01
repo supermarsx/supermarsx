@@ -2,20 +2,20 @@
 
 <figure>
   <a href="#"><img alt="banner containing a laptop with crystals and code in whimsical scenario" src="https://github.com/user-attachments/assets/9812f290-d2b9-4779-82d4-3b8237131b8a"></a>
-  <figcaption>ᴛᴏᴛᴀʟʟʏ ʀᴇᴀʟ ᴅᴇsᴋ, ᴍᴏʀᴛʏ—ʟᴀᴘᴛᴏᴘ sɪᴛᴛɪɴ’ ᴏɴ ɢᴏʟᴅ ᴅᴜsᴛ ᴀɴᴅ ᴄʀʏsᴛᴀʟs! ᴅᴏɴ’ᴛ ʟɪᴄᴋ ɪᴛ!</figcaption>
+  <figcaption>ᴛᴏᴛᴀʟʟʏ ʀᴇᴀʟ ᴅᴇsᴋ, ᴍᴏʀᴛʏ — ʟᴀᴘᴛᴏᴘ sɪᴛᴛɪɴ’ ᴏɴ ɢᴏʟᴅ ᴅᴜsᴛ ᴀɴᴅ ᴄʀʏsᴛᴀʟs! ᴅᴏɴ’ᴛ ʟɪᴄᴋ ɪᴛ!</figcaption>
 </figure>
 
 <br>
 
 ## This is the part where i say Hi
 
-Hi! 👋 I’m **Mariana** — I build cross-platform tools, LLM pipelines, and unapologetically practical utilities.<br>
-Expect **fast binaries**, **clever CLIs**, **desktop UX that slaps**, and the occasional bureaucratic spellbook for real humans.
+Hi! 👋 I’m **Mariana** — I build tools, diverse utilities for all types of niche and obscure uses.<br>
+Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and the occasional spellbook for humans.
 
 
 <br>
 
-## 🧪 Featured Universes (Repos)
+## 🧪 My Universes (Repos)
 
 > Pick a portal. Try not to turn into a Cronenberg.
 
