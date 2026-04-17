@@ -9,8 +9,8 @@
 
 ## 🙋🏻‍♀️ This is the part where i say Hi
 
-Hi! 👋 I’m **Mariana** — I build tools, diverse utilities for all types of niche and obscure uses.<br>
-Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and the occasional spellbook for humans.
+Hi! 👋 I’m **Mariana** — I build tools, diverse utilities for all types of niche and obscure uses. I like exploring :) <br>
+Expect **clever CLIs, UIs and TUIs**, **nice UX** (sometimes haha), and the occasional spellbook for humans *aka readme and docs*.
 
 
 <br>
@@ -60,9 +60,9 @@ Expect **fast binaries**, **clever CLIs, UIs and TUIs**, **UX that slaps**, and 
 ## 🧰 Tech Stack & Tastes
 
 * **Languages**: C/C++, TypeScript/Node, Python, Rust
-* **Apps**: Electron, React, TUI/CLI, cross-platform packaging
+* **Apps**: Tauri, NextJS, Electron, React, TUI/CLI, cross-platform packaging
 * **DevOps**: GitHub Actions, reproducible builds, static linking where it counts
-* **LLM**: Local first (Ollama/LM Studio), prompt plumbing, evals
+* **LLM**: Prompt plumbing, exotic configs and agents
 * **Values**: Practicality, performance, accessibility, and *zero* patience for manual drudgery
 
 <br>
